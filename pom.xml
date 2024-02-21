@@ -61,10 +61,11 @@
 						<exclude>
 							<groupId>org.projectlombok</groupId>
 							<artifactId>lombok</artifactId>
+							<version>1.18.22</version>
 						</exclude>
 					</excludes>
 				</configuration>
-			</plugin>		
+			</plugin>
 		</plugins>
 	</build>
 
